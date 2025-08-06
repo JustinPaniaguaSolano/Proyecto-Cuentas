@@ -1,0 +1,46 @@
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Presentacion.exe
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Presentacion.dll.config
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Presentacion.deps.json
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Presentacion.runtimeconfig.json
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Presentacion.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Presentacion.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Acceso Datos.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Entidades.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Logica Negocio.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Logica Negocio.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Acceso Datos.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\bin\Release\net8.0-windows\Capa Entidades.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_AgregarAjustes.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_AgregarCuentas.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_AgregarCuentasPorCobrar.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_AgregarPersonas.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_AgregarServicios.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_ConsultarAjustes.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_ConsultasCuentas.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_ConsultasCuentasPorCobrar.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_ConsultasPersonas.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_ConsultasServicios.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa_Presentacion.Frm_MenuPrincipal.resources
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.AssemblyInfo.cs
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Pre.6EE772B1.Up2Date
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\refint\Capa Presentacion.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\Capa Presentacion.genruntimeconfig.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Presentacion\obj\Release\net8.0-windows\ref\Capa Presentacion.dll

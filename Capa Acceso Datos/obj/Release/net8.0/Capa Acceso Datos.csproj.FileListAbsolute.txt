@@ -1,0 +1,15 @@
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\bin\Release\net8.0\Capa Acceso Datos.deps.json
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\bin\Release\net8.0\Capa Acceso Datos.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\bin\Release\net8.0\Capa Acceso Datos.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\bin\Release\net8.0\Capa Entidades.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\bin\Release\net8.0\Capa Entidades.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acceso Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acceso Datos.AssemblyInfoInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acceso Datos.AssemblyInfo.cs
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acc.C461AFCA.Up2Date
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acceso Datos.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\refint\Capa Acceso Datos.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\Capa Acceso Datos.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Acceso Datos\obj\Release\net8.0\ref\Capa Acceso Datos.dll

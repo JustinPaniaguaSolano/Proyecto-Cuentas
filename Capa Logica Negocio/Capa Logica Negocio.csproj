@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Capa_Logica_Negocio</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Capa Acceso Datos\Capa Acceso Datos.csproj" />
+    <ProjectReference Include="..\Capa Entitades\Capa Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\bin\Release\net8.0\Capa Entidades.deps.json
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\bin\Release\net8.0\Capa Entidades.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\bin\Release\net8.0\Capa Entidades.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\Capa Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\Capa Entidades.AssemblyInfoInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\Capa Entidades.AssemblyInfo.cs
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\Capa Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\Capa Entidades.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\refint\Capa Entidades.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\Capa Entidades.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Entitades\obj\Release\net8.0\ref\Capa Entidades.dll

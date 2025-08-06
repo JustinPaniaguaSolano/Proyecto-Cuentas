@@ -1,0 +1,17 @@
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\bin\Debug\net8.0\Capa Logica Negocio.deps.json
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\bin\Debug\net8.0\Capa Logica Negocio.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\bin\Debug\net8.0\Capa Logica Negocio.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\bin\Debug\net8.0\Capa Acceso Datos.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\bin\Debug\net8.0\Capa Entidades.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\bin\Debug\net8.0\Capa Acceso Datos.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\bin\Debug\net8.0\Capa Entidades.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Logica Negocio.csproj.AssemblyReference.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Logica Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Logica Negocio.AssemblyInfoInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Logica Negocio.AssemblyInfo.cs
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Logica Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Log.CC3E28DE.Up2Date
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Logica Negocio.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\refint\Capa Logica Negocio.dll
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\Capa Logica Negocio.pdb
+C:\Users\jpani\Desktop\Proyecto Cuentas Personales\Aplicacion\Capa Logica Negocio\obj\Debug\net8.0\ref\Capa Logica Negocio.dll
